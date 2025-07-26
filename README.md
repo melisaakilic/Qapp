@@ -1,6 +1,6 @@
 # Question App
 
-https://6803f65f3da98fbe737bce57--jovial-baklava-e6c93b.netlify.app/
+LİVE : https://6803f65f3da98fbe737bce57--jovial-baklava-e6c93b.netlify.app/
 
 ## Proje Tanımı
 
